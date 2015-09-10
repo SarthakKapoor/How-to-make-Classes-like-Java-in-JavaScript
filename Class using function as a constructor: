@@ -1,0 +1,6 @@
+function Person(name) {  
+    this.name = name;
+}
+// Creating an object
+var person = new Person("Rafael");  
+person.name; // "Rafael"  
